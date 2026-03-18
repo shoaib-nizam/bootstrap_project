@@ -1,4 +1,4 @@
 # bootstrap_project
-this is ecommerce project
-Auther Ali Humza
-This is School management System
+this is ecommerce project <br>
+Auther Ali Humza <br>
+This is School management System 
